@@ -85,3 +85,10 @@ int evenodd_ananya()
 	return 0;
 
 }
+
+int sub_aditi(int a, int b)
+{
+    int result=b-a;
+    return result;
+	
+}
